@@ -3,6 +3,8 @@ This is my MIT Project
 # Description
 This is called the  Real-time-bus-tracker. This showcases real time tracker in the form of a pin that moves from a Point A to Point B 
 Clone the repository on your local machine and drag index.html on your browser, then its ready to run
+# How To Run
+Clone the repository to your local machine, drag the inde.html to your browser, then its ready to run
 # future Improvement
 Will change the pin to an image of a bus.
 # license Information
